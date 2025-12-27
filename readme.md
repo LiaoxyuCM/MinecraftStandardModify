@@ -1,3 +1,13 @@
+# Minecraft Standard Modify
+
+## Requirements
+
+- Required Minecraft **Java Edition** 1.21.2 or higher.
+- 1.21.11 recommended for best experience.
+
+
+## Instructions
+
 | Event            | Result                   |
 | ---------------- | ------------------------ |
 | Mine ancient ore | Receive netherite ingot  |
