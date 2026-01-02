@@ -1,5 +1,10 @@
 # Minecraft Standard Modify
 
+## Updates
+
+Dense ores \(Abundant\) support
+
+
 ## Requirements
 
 - Required Minecraft **Java Edition** 1.21.2 or higher.
